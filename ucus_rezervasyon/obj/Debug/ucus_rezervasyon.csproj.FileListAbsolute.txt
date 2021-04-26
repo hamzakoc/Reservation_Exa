@@ -1,0 +1,9 @@
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\bin\Debug\ucus_rezervasyon.exe.config
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\bin\Debug\ucus_rezervasyon.exe
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\bin\Debug\ucus_rezervasyon.pdb
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.Form1.resources
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.Properties.Resources.resources
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.csproj.GenerateResource.cache
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.csproj.CoreCompileInputs.cache
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.exe
+C:\Users\hmzko\Desktop\c#\ucus_rezervasyon\ucus_rezervasyon\obj\Debug\ucus_rezervasyon.pdb
